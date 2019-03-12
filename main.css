@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Shadows+Into+Light');
+
+body
+{
+    background-color:black; 
+}
+#home {
+  background-image: url("bharath-g-s-388435-unsplash.jpg");
+}
+h1{
+  text-align: right;
+   color:#191970; 
+   font-family: 'Oswald', sans-serif;
+   font-size: 100px
+
+}
+
+#aboutme{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+    color:#8B4513;
+    background-color:white;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 50px; 
+    border-radius: 10px;
+    font-size:30px;
+
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+  color:#D2691E;
+  text-align: center;
+  font-size: 60px
+}
+
+  nav  {
+    font-family: ZCOOL QingKe HuangYou;
+    /* float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;*/
+    font-size: 25px; 
+  }
+  .left {
+    float: left;
+    padding: 0 20px 20px 0;
+   }
+   #contact{
+     background-color: #FF6347;
+     text-align: center;
+     font-family: 'Shadows Into Light', cursive;
+       color:#8B4513;
+       /* background-color:white; */
+       padding: 10px;
+       border: 5px solid gray;
+       margin: 50px; 
+       border-radius: 10px;
+       font-size:30px;
+   }
+   .contactme{
+      text-align: center;
+      color:white;
+      font-family: 'Oswald', sans-serif;
+   }
+   .right{
+     float:right;
+     height:300px;
+     width:500px;
+   }
+   form{
+     
+     width:500px;
+     margin: 50px ;
+      padding: 10px; 
+    border: 5px solid #800000;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    font-weight: 3000;
+   }
+   input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    ;
+  }
+  
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+ #footer{
+   background-color: #F0E68C;
+   
+ }
+
+ #card4 {
+  background-image: url("pbg.jpg");
+}
+ #card{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+    color:#8B4513;
+    background-color:rgba(245,245,220,0.4);
+    padding: 10px 0px 0px 0px;
+    border: 5px solid gray;
+    margin: 50px; 
+    border-radius: 10px;
+    font-size:30px;
+ }
+ #icons{
+   width:90px;
+   height: 90px;
+ }
+
+ #projects {
+  background-image: url("portfolio-background.jpg");
+  
+}
+#card1{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+    color:#8B4513;
+    background-image: url("depositphotos_193741598-stock-illustration-under-construction-road-sign-work.jpg");
+    padding: 10px 0px 0px 0px;
+    border: 5px solid gray;
+    margin: 50px; 
+    border-radius: 10px;
+    font-size:30px;
+ }
+
+ul{
+  list-style: none;
+}
+ul li{
+  display:inline;
+}
