@@ -6,7 +6,7 @@ body
     background-color:black; 
 }
 #home {
-  background-image: url("bharath-g-s-388435-unsplash.jpg");
+  background-image: url("/images/bharath-g-s-388435-unsplash.jpg");
 }
 h1{
   text-align: right;
@@ -135,14 +135,14 @@ h2{
  }
 
  #projects {
-  background-image: url("portfolio-background.jpg");
+  background-image: url("/images/portfolio-background.jpg");
   
 }
 #card1{
   text-align: center;
   font-family: 'Shadows Into Light', cursive;
     color:#8B4513;
-    background-image: url("depositphotos_193741598-stock-illustration-under-construction-road-sign-work.jpg");
+    background-image: url("/images/depositphotos_193741598-stock-illustration-under-construction-road-sign-work.jpg");
     padding: 10px 0px 0px 0px;
     border: 5px solid gray;
     margin: 50px; 
